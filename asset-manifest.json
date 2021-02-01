@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Quote-machine/static/css/main.f2e0c7d3.chunk.css",
-    "main.js": "/Quote-machine/static/js/main.94467e68.chunk.js",
-    "main.js.map": "/Quote-machine/static/js/main.94467e68.chunk.js.map",
+    "main.css": "/Quote-machine/static/css/main.e8f19d14.chunk.css",
+    "main.js": "/Quote-machine/static/js/main.14c551be.chunk.js",
+    "main.js.map": "/Quote-machine/static/js/main.14c551be.chunk.js.map",
     "runtime-main.js": "/Quote-machine/static/js/runtime-main.5621d5a8.js",
     "runtime-main.js.map": "/Quote-machine/static/js/runtime-main.5621d5a8.js.map",
     "static/js/2.b6c4c275.chunk.js": "/Quote-machine/static/js/2.b6c4c275.chunk.js",
     "static/js/2.b6c4c275.chunk.js.map": "/Quote-machine/static/js/2.b6c4c275.chunk.js.map",
     "index.html": "/Quote-machine/index.html",
-    "static/css/main.f2e0c7d3.chunk.css.map": "/Quote-machine/static/css/main.f2e0c7d3.chunk.css.map",
+    "static/css/main.e8f19d14.chunk.css.map": "/Quote-machine/static/css/main.e8f19d14.chunk.css.map",
     "static/js/2.b6c4c275.chunk.js.LICENSE.txt": "/Quote-machine/static/js/2.b6c4c275.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5621d5a8.js",
     "static/js/2.b6c4c275.chunk.js",
-    "static/css/main.f2e0c7d3.chunk.css",
-    "static/js/main.94467e68.chunk.js"
+    "static/css/main.e8f19d14.chunk.css",
+    "static/js/main.14c551be.chunk.js"
   ]
 }
