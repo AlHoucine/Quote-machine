@@ -56,7 +56,7 @@ class Next extends React.Component{
   
   render(){
     return(
-      <div className='container'>
+      <div id="minibody" className='container'>
         <div className='textContainer'>
           <div class="text-center">
             <h2 style={{color: colors[this.state.y]}}>
@@ -70,11 +70,11 @@ class Next extends React.Component{
         </div>
         
         <div className='buttons'>
-          <div>
+          <div class='partage'>
           <a href='https://www.twitter.com/intent/tweet' target='_blanck'><button id="twitbut" type="button" class="btn btn-outline-primary">Twitter</button></a>
               <button id="facebut" type="button" class="btn btn-outline-primary">Facebook</button>
           </div>
-            <button id="button" type="button" class="btn btn-outline-primary" onClick={this.getNember}>New citation</button>
+            <button id="button" type="button" class="btn btn-outline-primary" onClick={this.getNember}>Next citation</button>
         </div>
       </div>
     );
